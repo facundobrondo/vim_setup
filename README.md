@@ -5,8 +5,8 @@ Este repositorio fue creado para guardar configuraciones asociadas a Vim y plugi
 Luego solo se deben crear enlaces simbolicos de la siguiente manera:
 
 Para vimrc
-- ln -s ruta_al_repositorio/vim_setup/vimrc /home/<usuario>/.vimrc
+- `ln -s <ruta_al_repositorio>/vim_setup/vimrc /home/<usuario>/.vimrc`
 
 Para plugins
-- ln -s ruta_al_repositorio/vim_setup/vim/ /home/<usuario>/.vim/
+- `ln -s <ruta_al_repositorio>/vim_setup/vim/ /home/<usuario>/.vim/`
 
